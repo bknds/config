@@ -6,7 +6,7 @@
   "showVirtualGoods": false,
   "virtualGoodsKeys": ["会员", "VIP", "vip", "金卡", "月卡", "年卡", "季卡"],
   "elemAppId": "wxece3a9a4c82f58c9",
-  "elemeWaimaiCpsId": "ZfMa8bu",
+  "elemeWaimaiCpsId": "uJocwau",
   "elemeticketCpsId": "lMba8bu",
   "elemeBanner": [
     "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner01.png",
