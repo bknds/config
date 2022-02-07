@@ -1,0 +1,16 @@
+{
+  "appSecret": "9f4db6bbec988f58155fcc65afbec7fc",
+  "appKey": "5fe9bed9ad379",
+  "pid": "mm_1152130125_2193250444_111123000112",
+  "appName": "森花优选",
+  "showVirtualGoods": false,
+  "virtualGoodsKeys": ["会员", "VIP", "vip", "金卡", "月卡", "年卡", "季卡"],
+  "elemAppId": "wxece3a9a4c82f58c9",
+  "elemeWaimaiCpsId": "ZfMa8bu",
+  "elemeticketCpsId": "lMba8bu",
+  "elemeBanner": [
+    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner01.png",
+    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner02.png",
+    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner03.png"
+  ]
+}
