@@ -9,8 +9,8 @@
   "elemeWaimaiCpsId": "uJocwau",
   "elemeticketCpsId": "lMba8bu",
   "elemeBanner": [
-    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner01.png",
-    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner02.png",
-    "https://cdn.jsdelivr.net/gh/bknds/config/union/eleme_banner03.png"
+    "https://cdn.jsdelivr.net/gh/bknds/config@latest/union/eleme_banner01.png",
+    "https://cdn.jsdelivr.net/gh/bknds/config@latest/union/eleme_banner02.png",
+    "https://cdn.jsdelivr.net/gh/bknds/config@latest/union/eleme_banner03.png"
   ]
 }
