@@ -3,7 +3,7 @@
   "appKey": "5fe9bed9ad379",
   "pid": "mm_1152130125_2193250444_111123000112",
   "appName": "森花优选",
-  "showCoupon": false, //是否展示优惠券及原价（过审用）
+  "showCoupon": false, //是否展示优惠券及原价
   "showVirtualGoods": false, //是否展示会员类商品
   "virtualGoodsKeys": ["会员", "VIP", "vip", "金卡", "月卡", "年卡", "季卡"],
   "elemAppId": "wxece3a9a4c82f58c9",
